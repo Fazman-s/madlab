@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<city>
+    <city_name>Bengaluru</city_name>
+    <latitude>54</latitude>
+    <longitude>34.3</longitude>
+    <temperature>23</temperature>
+    <humidity>82%</humidity>
+</city>
